@@ -1,0 +1,16 @@
+test/anechoic-3mm-3mm_registered.mha filter=lfs diff=lfs merge=lfs -text
+test/grey-mid_registered.mha filter=lfs diff=lfs merge=lfs -text
+test/phantom_image_2.mha filter=lfs diff=lfs merge=lfs -text
+test/phantom_image_5.mha filter=lfs diff=lfs merge=lfs -text
+test/anechoic-6.[[:space:]]7mm-1.3mm_registered.mha filter=lfs diff=lfs merge=lfs -text
+test/grey-left_registered.mha filter=lfs diff=lfs merge=lfs -text
+test/phantom_image_4.mha filter=lfs diff=lfs merge=lfs -text
+test/phantom_mask.mha filter=lfs diff=lfs merge=lfs -text
+test/axial-lateral-profile_registered.mha filter=lfs diff=lfs merge=lfs -text
+test/axial-lateral-resolution_registered.mha filter=lfs diff=lfs merge=lfs -text
+test/phantom_distancemap.mha filter=lfs diff=lfs merge=lfs -text
+test/anechoic-4.5mm-2mm_registered.mha filter=lfs diff=lfs merge=lfs -text
+test/butterfly filter=lfs diff=lfs merge=lfs -text
+test/elevational-profile_registered.mha filter=lfs diff=lfs merge=lfs -text
+test/grey-right_registered.mha filter=lfs diff=lfs merge=lfs -text
+test/phantom_image_1.mha filter=lfs diff=lfs merge=lfs -text
